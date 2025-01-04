@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sudopenmark
 - 👀 I’m interested in ethical hacking
-- 🌱 I’m currently learning introductipn to kali linux
+- 🌱 I’m currently learning introduction to kali linux and ethical hacking
 - 💞️ I’m looking to collaborate on ethical hacking
 - 📫 How to reach me sudo penmark on facebook and sudopenmark@gmail.com
 - 😄 Pronouns: sudopenmark
