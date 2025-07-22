@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sudopenmark
-- 👀 I'm a hacker possibly greyhattey
+- 👀 I'm a hacker possibly greyhat
 - 🌱 I’m certified 
 - 💞️ I’m open to collaboration
 - 📫 How to reach me? uh you dont 
