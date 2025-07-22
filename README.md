@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sudopenmark
-- 👀 I’m interested in ethical hacking
-- 🌱 I’m a certified hacker 
-- 💞️ I’m looking to collaborate on ethical hacking
-- 📫 How to reach me sudo penmark on facebook and sudopenmark@gmail.com
+- 👀 I'm a hacker possibly greyhattey
+- 🌱 I’m certified 
+- 💞️ I’m open to collaboration
+- 📫 How to reach me? uh you dont 
 - 😄 Pronouns: sudopenmark
 - ⚡ Fun fact: I love connecting with new friends I can learn from.
 
